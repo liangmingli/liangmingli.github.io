@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter  
+
+~~~
+= Publications
+3. Liang, M., Zheng, J., Isham, E., & Ekstrom, A. (2021). Common and distinct roles of frontal midline theta and occipital alpha oscillations in coding temporal intervals and spatial distances. *Journal of cognitive neuroscience*. \[[./pubs/liangjocn21.pdf pdf]\]
+
+2. Zheng, J., Liang, M., Sinha, S., Ge, L., Yu, W., Ekstrom, A., & Hsieh, F. (2021). Time-frequency analysis of scalp EEG with Hilbert-Huang transform and deep learning. *IEEE Journal of Biomedical and Health Informatics*. \[[./pubs/zheng21etal.pdf pdf]\]
+
+1. Liang, M., Starrett, M. J., & Ekstrom, A. D. (2018). Dissociation of frontal‐midline delta‐theta and posterior alpha oscillations: A mobile EEG study. *Psychophysiology*. \[[./pubs/liang18etal.pdf pdf]\]
+~~~
