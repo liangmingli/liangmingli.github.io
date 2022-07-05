@@ -1,2 +1,2 @@
-cd C:\Users\leung\Documents\Github\liangmingli.github.io\www
+cd C:\Users\leung\Documents\Github\liangmingli.github.io
 python jemdoc.py index.jemdoc
