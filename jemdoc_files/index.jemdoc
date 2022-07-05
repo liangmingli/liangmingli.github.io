@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+
+~~~
+{}{img_left}{./files/me.jpg}{photo}{140px}{180px}{}
+= Mingli Liang, Ph.D. \n
+Postdoctoral researcher\n
+Yale University \n
+(mingli.liang AT yale.edu) \n
+[./files/Mingli_CV_2022.pdf CV] \n
+[https://github.com/liangmingli Github]\n
+Last updated: July 5 2022
+~~~
+
+== About me
+I am a cognitive neuroscientist by training and currently working with brain (macro+micro) recordings obtained from neurosurgical patients. \n\n
+
+I love exploring complex datasets through elegant and beautiful figures.  See [./visualizations.html visualization] for demo. \n\n
+
+I received my PhD in psychology from University of Arizona, studying how we form memories of space and time. \n
+
+== Training and Education
+Postdoc, Department of Neurosurgery, Yale University, 2022- Present, PI: Eyiyemisi Damisah \n\n
+PhD in psychology, University of Arizona, 2018-2022, UC Davis, 2016-2018, PI: Arne Ekstrom\n\n
+Bachelors in psychology, Renmin University of China, 2016 \n\n
+Bachelors in economics, Peking University, 2016 \n\n
+
+== Project Keywords
+single-unit recording, neural oscillations, time-frequency transformation \n\n
+neural time series, computational modeling, data visualization
+

@@ -1,2 +1,2 @@
-cd C:\Users\leung\Documents\Github\liangmingli.github.io
-python jemdoc.py index.jemdoc
+cd /mnt/c/Users/ml2866/Documents/GitHub/liangmingli.github.io 
+python3 ../jemdoc -c mysite.conf -o ../www/  *.jemdoc
