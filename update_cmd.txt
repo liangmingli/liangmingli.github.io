@@ -1,0 +1,2 @@
+cd C:\Users\leung\Documents\Github\liangmingli.github.io\www
+python jemdoc.py index.jemdoc

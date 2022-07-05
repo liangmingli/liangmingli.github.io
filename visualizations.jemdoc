@@ -1,0 +1,6 @@
+# jemdoc: menu{MENU}{visualizations.html}, nofooter  
+
+
+~~~
+{}{img_left}{./demo/demo.jpg}{photo}{591px}{458px}{}
+~~~

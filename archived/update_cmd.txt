@@ -1,2 +1,0 @@
-cd C:\Users\leung\Documents\Github\liangmingli.github.io
-c:\windows\py.exe -2 jemdoc.py index.jemdoc
