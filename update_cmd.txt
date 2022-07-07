@@ -1,2 +1,2 @@
-cd /mnt/c/Users/ml2866/Documents/GitHub/liangmingli.github.io 
+cd /mnt/c/Users/ml2866/Documents/GitHub/liangmingli.github.io/jemdoc_files
 python3 ../jemdoc -c mysite.conf -o ../www/  *.jemdoc
